@@ -1,4 +1,4 @@
-package hello_world_v9
+package main
 
 // import "fmt"
 
